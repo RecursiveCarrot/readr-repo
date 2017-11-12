@@ -55,7 +55,7 @@ Assuming that you have a Debian (Ubuntu) environment:
 
 If you are using another system, the process should be analogous. Say figure it out yourself in a nice way.
 ### OSX
-  1.  Install Homebrew. It is a software management package for OSX which hosts a large set of brews "formulae" for installing open source software onto your OSX box. It is well written and will handle most of the dependencies and installation hassles.
+  1.  Install [Homebrew](https://brew.sh/). It is a software management package for OSX which hosts a large set of brews "formulae" for installing open source software onto your OSX box. It is well written and will handle most of the dependencies and installation hassles.
   3. If you don't already have python installed open the terminal application and run `brew install python3`. The homebrew install will also provide the `pip3` application which will let you install and manage python packages.
   4. Now you have `pip3` you can install jupyter and tensorflow easily by running `pip3 install jupyter tensorflow`.  
   5. Finally,  [here](https://alexpearce.me/2016/02/root-on-os-x-el-capitan/) is a guide to installing root. This link will also work for the Sierra version of OSX. Please be aware that this will not work for earlier versions. The author provides alternate instructions for older OSX versions. If none of this works refer to these [installation instructions](https://root.cern.ch/root/html534/guides/users-guide/InstallandBuild.html)
