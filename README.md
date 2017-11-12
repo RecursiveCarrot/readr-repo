@@ -1,5 +1,5 @@
 # Introduction
- Welcome to the readr [github](https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/) page!  This will be a live repository for all of the  materials used in the workshops. We will update you when pertinent information goes up on this site. The current action items include:
+ Welcome to the readr [`github`](https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/) page!  This will be a live repository for all of the  materials used in the workshops. We will update you when pertinent information goes up on this site. The current action items include:
   * Read through the preparatory materials.
   * Provide us your travel itinerary and requirements.
   * Set up your your computer.
@@ -13,7 +13,7 @@ To participate in the workshops you will also need a couple of software tools. T
   * [`python`](https://www.python.org/) (3.5 or later),
   * [`jupyter` Notebook](http://jupyter.org/)
   * [`tensorflow`](https://www.tensorflow.org/),
-  * and [CERN root](https://root.cern.ch/).
+  * and [`CERN root`](https://root.cern.ch/).
 
 In the interest of saving time during the event, please attempt to get these working on your own device before readr. I have provided detailed installation instructions . There are two different approaches:
 
@@ -23,19 +23,19 @@ In the interest of saving time during the event, please attempt to get these wor
 I strongly suggest following the Quick-Start instructions.
 
 ## Quick-start
-1. Install Oracle VirtualBox. This program will allow you to emulate a virtual computer so that you can run multiple operating systems without needing to dual-boot.
+1. Install `Oracle VirtualBox`. This program will allow you to emulate a virtual computer so that you can run multiple operating systems without needing to dual-boot.
    * [Linux instructions](https://www.virtualbox.org/wiki/Linux_Downloads)
    * [OSX installer](http://download.virtualbox.org/virtualbox/5.2.0/VirtualBox-5.2.0-118431-OSX.dmg)
    * [Windows installer](http://download.virtualbox.org/virtualbox/5.2.0/VirtualBox-5.2.0-118431-Win.exe)
-2. Download the pre-built ubuntu environment (`readr.ova`) from [clourstor](https://cloudstor.aarnet.edu.au/sender/?s=download&token=ece48997-e53f-c120-087a-db641f88a61f). Note: this download will go quicker if you are on `aarnet` (your home university network).
-3. Import this file into VirtualBox:
-   * Open VirtualBox,
+2. Download the pre-built `ubuntu` environment (`readr.ova`) from [clourstor](https://cloudstor.aarnet.edu.au/sender/?s=download&token=ece48997-e53f-c120-087a-db641f88a61f). Note: this download will go quicker if you are on `aarnet` (your home university network).
+3. Import this operating system into `VirtualBox`:
+   * Open `VirtualBox`,
    * in the file menu select import appliance. <p align="center"><img width="460" height="300" src="https://raw.githubusercontent.com/pmRed/readr-repo/master/imgs/instr/VBoxInstr02.png"></p>
    * Navigate to the directory containing `readr.ova` and select this file. <p align="center"><img width="460" height="300" src="https://raw.githubusercontent.com/pmRed/readr-repo/master/imgs/instr/VBoxInstr03.png"></p>
    * This will bring up a window detailing all of the properties of the virtual machine. It should look like <p align="center"><img width="460" height="300" src="https://raw.githubusercontent.com/pmRed/readr-repo/master/imgs/instr/VBoxInstr04.png"></p>
    * Here you can change the amount of ram or the number of processes devoted to the virtual machine to suit your own system. The resources you devote to the setup will make it faster/slower. You can also change this in the settings later if you need to.
    * Click the import button and agree to the licence.
-4. You should now have access to the `readrenv` machine which is powered off. Click start and ubuntu should start up in another window.
+4. You should now have access to the `readrenv` machine which is powered off. Click start and `ubuntu` should start up in another window.
 
       <img align="left" width="405" src="https://raw.githubusercontent.com/pmRed/readr-repo/master/imgs/instr/VBoxInstr01.png"><img align="left" width="405" src="https://raw.githubusercontent.com/pmRed/readr-repo/master/imgs/instr/VBoxInstr05.png">
  
@@ -53,11 +53,11 @@ Assuming that you have a Debian (Ubuntu) environment:
 2. `pip3 install tensorflow jupyter`
 3. [Installing/Building Cern Root](https://root.cern.ch/root/html534/guides/users-guide/InstallandBuild.html)
 
-If you are using another system, the process should be analogous. Say figure it out yourself in a nice way.
+If you are using another system, the process should be analogous.
 ### OSX
   1.  Install [Homebrew](https://brew.sh/). It is a software management package for OSX which hosts a large set of brews "formulae" for installing open source software onto your OSX box. It is well written and will handle most of the dependencies and installation hassles.
-  3. If you don't already have python installed open the terminal application and run `brew install python3`. The homebrew install will also provide the `pip3` application which will let you install and manage python packages.
-  4. Now you have `pip3` you can install jupyter and tensorflow easily by running `pip3 install jupyter tensorflow`.  
+  3. If you don't already have `python` installed open the terminal application and run `brew install python3`. The homebrew install will also provide the `pip3` application which will let you install and manage python packages.
+  4. Now you have `pip3` you can install `jupyter` and `tensorflow` easily by running `pip3 install jupyter tensorflow`.  
   5. Finally,  [here](https://alexpearce.me/2016/02/root-on-os-x-el-capitan/) is a guide to installing root. This link will also work for the Sierra version of OSX. Please be aware that this will not work for earlier versions. The author provides alternate instructions for older OSX versions. If none of this works refer to these [installation instructions](https://root.cern.ch/root/html534/guides/users-guide/InstallandBuild.html)
 ### Windows
 Sorry people, still working on a windows guide for this part. Come back later or use the VM.  =)
