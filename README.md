@@ -7,6 +7,8 @@
 Over the next couple of weeks I will be compiling a reference of computing resources and tools. If you are interested keep an eye on this site.
 --- Prithvi
 
+Contact: If you have any issues with the setup instructions please contact me at prithvi.reddy@anu.edu.au.
+
 # Software and System Setup
 Some of the workshops that will require to you to write code. Don't panic if you are unfamiliar with programming. The workshops will not require much computer science background. However, if you are interested in preparing beforehand, follow this [primer on programming](https://python.swaroopch.com/) in python. It should help you to hit the ground running.
 To participate in the workshops you will also need a couple of software tools. The key resources you will need to have set up on your system are:
