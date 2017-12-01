@@ -10,7 +10,7 @@ Over the next couple of weeks I will be compiling a reference of computing resou
 Contact: If you have any issues with the setup instructions please contact me at prithvi.reddy@anu.edu.au.
 
 # Software and System Setup
-Some of the workshops that will require to you to write code. Don't panic if you are unfamiliar with programming. The workshops will not require much computer science background. However, if you are interested in preparing beforehand, follow this [primer on programming](https://python.swaroopch.com/) in python. It should help you to hit the ground running.
+Some of the workshops that will require to you to write code. Don't panic if you are unfamiliar with programming. The workshops will not require much computer science background. However, if you are interested in preparing beforehand, there is a jupyter notebook with examples and exercies included in this repository, follow the instructions are included `Jupyter Notebook` section. It should help you to hit the ground running  (if you want more help, an alternate resource is the following [primer on programming](https://python.swaroopch.com/) in python).
 To participate in the workshops you will also need a couple of software tools. The key resources you will need to have set up on your system are:
   * [`python`](https://www.python.org/) (3.5 or later),
   * [`jupyter` Notebook](http://jupyter.org/)
@@ -68,8 +68,8 @@ Sorry people, still working on a windows guide for this part. Come back later or
 The file `1. Scientific Programming with Python.ipynb` included in this repository is an introduction to python and jupyter written by Josh Issacs.
 You can:
 1. (Recommended) Open it directly on your environment (once you have set up python and jupyter as detailed above).  This will be very useful if you want to brush up on your python.
-    - Download the repository (using the green `clone or download` button on the main page.
+    - Download the repository using the green `clone or download` button on the main page.
     - Once you have Jupyter installed open it by either using the terminal (typing `jupyter` into it) or finding the desktop/menu icon. This will open a browser window with a notebook interface. 
-    - Click upload file, and choose the file that you downloaded.
+    - Click upload file, and choose the `1. Scientific Programming with Python.ipynb` file that you downloaded.
     - Upload the file. You can now open it, and run the Python examples within.
 2. View it online [here](https://github.com/pmRed/readr-repo/blob/master/1.%20Scientific%20Programming%20with%20Python.ipynb). Notably, this will not give you access the interactive components of the notebook.
