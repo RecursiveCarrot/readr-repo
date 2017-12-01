@@ -63,3 +63,13 @@ If you are using another system, the process should be analogous.
   5. Finally,  [here](https://alexpearce.me/2016/02/root-on-os-x-el-capitan/) is a guide to installing `root`. This link will also work for the Sierra version of OSX. Please be aware that this will not work for earlier versions. The author provides alternate instructions for older OSX versions. If none of this works refer to these [installation instructions](https://root.cern.ch/root/html534/guides/users-guide/InstallandBuild.html).
 ### Windows
 Sorry people, still working on a windows guide for this part. Come back later or use the VM.  =)
+
+# Jupyter notebook
+The file `1. Scientific Programming with Python.ipynb` included in this repository is an introduction to python and jupyter written by Josh Issacs.
+You can:
+1. (Recommended) Open it directly on your environment (once you have set up python and jupyter as detailed above).  This will be very useful if you want to brush up on your python.
+    - Download the repository (using the green `clone or download` button on the main page.
+    - Once you have Jupyter installed open it by either using the terminal (typing `jupyter` into it) or finding the desktop/menu icon. This will open a browser window with a notebook interface. 
+    - Click upload file, and choose the file that you downloaded.
+    - Upload the file. You can now open it, and run the Python examples within.
+2. View it online [here](https://github.com/pmRed/readr-repo/blob/master/1.%20Scientific%20Programming%20with%20Python.ipynb). Notably, this will not give you access the interactive components of the notebook.
