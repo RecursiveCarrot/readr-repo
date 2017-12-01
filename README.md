@@ -72,4 +72,4 @@ You can:
     - Once you have Jupyter installed open it by either using the terminal (typing `jupyter` into it) or finding the desktop/menu icon. This will open a browser window with a notebook interface. 
     - Click upload file, and choose the `1. Scientific Programming with Python.ipynb` file that you downloaded.
     - Upload the file. You can now open it, and run the Python examples within.
-2. View it online [here](https://github.com/pmRed/readr-repo/blob/master/1.%20Scientific%20Programming%20with%20Python.ipynb). Notably, this option will not give you access to the interactive components of the notebook.
+2. View it online [here](https://github.com/josh146/readr/blob/cff48e4c5e99f1512ac3bc86a99ad99291d20945/1.%20Scientific%20Programming%20with%20Python.ipynb). Notably, this option will not give you access to the interactive components of the notebook.
