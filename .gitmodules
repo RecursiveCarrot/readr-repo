@@ -1,6 +1,0 @@
-[submodule "readr"]
-	path = readr
-	url = git@github.com:josh146/readr.git
-[submodule "notebooks"]
-	path = notebooks
-	url = git@github.com:josh146/readr.git
