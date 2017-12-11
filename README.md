@@ -29,7 +29,7 @@ I strongly suggest following the Quick-Start instructions.
    * [Linux instructions](https://www.virtualbox.org/wiki/Linux_Downloads)
    * [OSX installer](http://download.virtualbox.org/virtualbox/5.2.0/VirtualBox-5.2.0-118431-OSX.dmg)
    * [Windows installer](http://download.virtualbox.org/virtualbox/5.2.0/VirtualBox-5.2.0-118431-Win.exe)
-2. Download the pre-built `ubuntu` environment (`readr.ova`) from [clourstor](https://cloudstor.aarnet.edu.au/sender/?s=download&token=ece48997-e53f-c120-087a-db641f88a61f). Note: this download will go quicker if you are on `aarnet` (your home university network).
+2. Download the pre-built `ubuntu` environment (`readr.ova`) from [clourstor](https://cloudstor.aarnet.edu.au/sender/?s=download&token=ec6fc5cd-e722-976a-e908-f0d263b3d722). Note: this download will go quicker if you are on `aarnet` (your home university network).
 3. Import this operating system into `VirtualBox`:
    * Open `VirtualBox`,
    * in the file menu select import appliance. <p align="center"><img width="460" height="300" src="https://raw.githubusercontent.com/pmRed/readr-repo/master/imgs/instr/VBoxInstr02.png"></p>
