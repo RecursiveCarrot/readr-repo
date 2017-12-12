@@ -24,6 +24,8 @@ In the interest of saving time during the event, please attempt to get these wor
 
 I strongly suggest following the Quick-Start instructions.
 
+Once you are done, please test your tensorflow installation by going through the thensorflow [tutorial](https://www.tensorflow.org/get_started/mnist/beginners).
+
 ## Quick-start
 1. Install `Oracle VirtualBox`. This program will allow you to emulate a virtual computer so that you can run multiple operating systems without needing to dual-boot.
    * [Linux instructions](https://www.virtualbox.org/wiki/Linux_Downloads)
