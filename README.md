@@ -29,7 +29,7 @@ Once you are done, please test your tensorflow installation by going through the
 
 ## Quick-start
 
-6. __EDIT__: You may have one additional step to do when to run root. You will need install the package at the following [link](https://packages.ubuntu.com/trusty/science/root-plugin-tree-treeviewer). 
+__EDIT__: You may have one additional step to do when to run root. You will need install the package at the following [link](https://packages.ubuntu.com/trusty/science/root-plugin-tree-treeviewer). 
 
 1. Install `Oracle VirtualBox`. This program will allow you to emulate a virtual computer so that you can run multiple operating systems without needing to dual-boot.
    * [Linux instructions](https://www.virtualbox.org/wiki/Linux_Downloads)
