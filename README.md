@@ -3,6 +3,7 @@
   * Read through the preparatory materials.
   * Provide us your travel itinerary and requirements.
   * Set up your your computer.
+  * Download the data required for the labs. Pick at random from [link](https://cloudstor.aarnet.edu.au/plus/s/YI6JG24vEFnmAwd).
 
 Over the next couple of weeks I will be compiling a reference of computing resources and tools. If you are interested keep an eye on this site.
 --- Prithvi
@@ -44,6 +45,8 @@ Once you are done, please test your tensorflow installation by going through the
       <img align="left" width="405" src="https://raw.githubusercontent.com/pmRed/readr-repo/master/imgs/instr/VBoxInstr01.png"><img align="left" width="405" src="https://raw.githubusercontent.com/pmRed/readr-repo/master/imgs/instr/VBoxInstr05.png">
  
 5. Now you are ready to go!
+
+6. Note you may have one additional step to do when you run root. You may need to install the package at the following [link](https://packages.ubuntu.com/trusty/science/root-plugin-tree-treeviewer). 
 ## System Install
 
 Disclaimer: 
