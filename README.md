@@ -28,6 +28,9 @@ I strongly suggest following the Quick-Start instructions.
 Once you are done, please test your tensorflow installation by going through the thensorflow [tutorial](https://www.tensorflow.org/get_started/mnist/beginners).
 
 ## Quick-start
+
+6. __EDIT__: You may have one additional step to do when to run root. You will need install the package at the following [link](https://packages.ubuntu.com/trusty/science/root-plugin-tree-treeviewer). 
+
 1. Install `Oracle VirtualBox`. This program will allow you to emulate a virtual computer so that you can run multiple operating systems without needing to dual-boot.
    * [Linux instructions](https://www.virtualbox.org/wiki/Linux_Downloads)
    * [OSX installer](http://download.virtualbox.org/virtualbox/5.2.0/VirtualBox-5.2.0-118431-OSX.dmg)
@@ -46,7 +49,6 @@ Once you are done, please test your tensorflow installation by going through the
  
 5. Now you are ready to go!
 
-6. Note you may have one additional step to do when you run root. You may need to install the package at the following [link](https://packages.ubuntu.com/trusty/science/root-plugin-tree-treeviewer). 
 ## System Install
 
 Disclaimer: 
